@@ -1,0 +1,40 @@
+{
+  "total_tests": 20,
+  "passed_tests": 19,
+  "failed_tests": 1,
+  "success_rate": 95.0,
+  "performance_metrics": {
+    "event_creation_ms": 0.03,
+    "registration_ms": 0.03,
+    "analytics_ms": 0.02,
+    "statistics_ms": 0.04
+  },
+  "test_suites": [
+    [
+      "User Management",
+      4,
+      4
+    ],
+    [
+      "Event Management",
+      4,
+      4
+    ],
+    [
+      "Attendance Tracking",
+      3,
+      4
+    ],
+    [
+      "Analytics",
+      4,
+      4
+    ],
+    [
+      "Performance",
+      4,
+      4
+    ]
+  ],
+  "timestamp": "2026-07-11T12:09:43.285654"
+}
